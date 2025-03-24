@@ -17,3 +17,4 @@ pip>=23.0
 setuptools>=65.0
 wheel>=0.40
 pyproject_hooks
+Werkzeug==1.0.1
