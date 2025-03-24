@@ -1,4 +1,5 @@
-Flask==2.2.2                  # Web framework
+Flask==2.2.5                  # Web framework
+Werkzeug==2.2.3
 gunicorn==20.1.0              # WSGI HTTP Server for deployment
 PyMuPDF==1.21.1               # Extract text from PDFs
 pdfplumber==0.7.4             # Another PDF extraction tool
