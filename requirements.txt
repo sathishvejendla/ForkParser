@@ -14,6 +14,6 @@ beautifulsoup4==4.11.1        # Web scraping
 openai==0.27.0                # OpenAI API (if using GPT)
 PyYAML==6.0                   # YAML parsing
 pip>=23.0
-setuptools>=68.0
-wheel
+setuptools>=65.0
+wheel>=0.40
 pyproject_hooks
